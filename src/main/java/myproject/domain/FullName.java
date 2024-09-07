@@ -9,7 +9,7 @@ public class FullName {
         this.lastName = lastName;
     }
 
-    // Геттеры и сеттеры
+
     public String getFirstName() { return firstName; }
     public void setFirstName(String firstName) { this.firstName = firstName; }
 
